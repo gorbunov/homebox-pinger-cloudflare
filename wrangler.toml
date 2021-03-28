@@ -1,0 +1,9 @@
+name = "hamachi-keeper"
+type = "webpack"
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+kv_namespaces = [
+    { binding = "homeserver", preview_id = "024a1de864984224955968b64948cfb5", id = "6389995fd96f433281714a37df76db2e" }
+]
